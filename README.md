@@ -3,8 +3,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python
 - 🌱 I’m currently learning JavaScript and CSS
 - 👯 I’m looking to collaborate on interesting projects.
